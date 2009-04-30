@@ -1,0 +1,7 @@
+h2. tobym's greasemonkey scripts
+
+h3. GoogleDateSearch
+
+Adds the search-by-date option to normal Google Search; defaults to "anytime".
+
+Get it on "UserScripts.org":http://userscripts.org/scripts/show/47856
